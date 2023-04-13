@@ -1,0 +1,3 @@
+[submodule "submodule/example-01"]
+	path = submodule/example-01
+	url = https://github.com/gotecq-huuphan/example-01
